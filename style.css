@@ -1,0 +1,59 @@
+body {   
+    width: 100%;
+    display: flex;    
+    justify-content: center;    
+    min-width: 450px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(230, 230, 230);
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fundo-azul {
+    padding: auto;
+    padding-bottom: 5px;
+    min-width: 450px;
+    width: 100%;
+    background-color: rgb(40, 6, 142);
+    color: white;
+    border-radius: 10px;
+}
+
+#titulo-red {
+    color: rgb(222, 4, 4);
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
+img {
+   width: 300px;
+  
+}
+
+div {    
+    padding: auto;
+    min-width: 450px;
+    width: 50%;
+    
+}
+
+.div1{
+    width: 100%;
+    text-align: justify;
+}
+
+.centralizar-imagem {
+    text-align: center;
+    width: 100%;
+}
+
+.centralizar-texto {
+    text-align: center;
+}
+.a-do-index {
+    color: white;
+    text-decoration: none;
+    
+}
